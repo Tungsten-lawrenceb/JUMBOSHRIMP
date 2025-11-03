@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Castltated_hole")(type "KiCad")(uri "${KIPRJMOD}/Footprints.pretty/Castltated_hole.pretty")(options "")(descr ""))
+  (lib (name "Module")(type "KiCad")(uri "${KIPRJMOD}/Footprints.pretty/Module.pretty")(options "")(descr ""))
+)

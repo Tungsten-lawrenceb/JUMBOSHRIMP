@@ -1,0 +1,84 @@
+Configuration	STM32F031K6U6
+STM32CubeMX 	6.15.0
+Date	11/03/2025
+MCU	STM32F031K6Ux
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC	IN0	ADC_IN0	PA0
+ADC	IN1	ADC_IN1	PA1
+ADC	IN4	ADC_IN4	PA4
+ADC	IN5	ADC_IN5	PA5
+SYS	Serial_Wire	SYS_SWCLK	PA14
+SYS	Serial_Wire	SYS_SWDIO	PA13
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+6	PA0	ADC_IN0	SENS_C
+7	PA1	ADC_IN1	COMP
+8	PA2	GPIO_Input	PWM
+10	PA4	ADC_IN4	SENS_B
+11	PA5	ADC_IN5	SENS_A
+13	PA7	GPIO_Output	GATE_CL
+14	PB0	GPIO_Output	GATE_BL
+15	PB1	GPIO_Output	GATE_AL
+18	PA8	GPIO_Output	GATE_CH
+19	PA9	GPIO_Output	GATE_BH
+20	PA10	GPIO_Output	GATE_AH
+23	PA13	SYS_SWDIO	
+24	PA14	SYS_SWCLK	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC	IN0	ADC_IN0	PA0
+ADC	IN1	ADC_IN1	PA1
+ADC	IN4	ADC_IN4	PA4
+ADC	IN5	ADC_IN5	PA5
+SYS	Serial_Wire	SYS_SWCLK	PA14
+SYS	Serial_Wire	SYS_SWDIO	PA13
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+6	PA0	ADC_IN0	SENS_C
+7	PA1	ADC_IN1	COMP
+8	PA2	GPIO_Input	PWM
+10	PA4	ADC_IN4	SENS_B
+11	PA5	ADC_IN5	SENS_A
+13	PA7	GPIO_Output	GATE_CL
+14	PB0	GPIO_Output	GATE_BL
+15	PB1	GPIO_Output	GATE_AL
+18	PA8	GPIO_Output	GATE_CH
+19	PA9	GPIO_Output	GATE_BH
+20	PA10	GPIO_Output	GATE_AH
+23	PA13	SYS_SWDIO	
+24	PA14	SYS_SWCLK	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : STM32F031K6U6
+Project Folder : C:\Users\RahulDhebri\OneDrive - Tungsten Collaborative\Github\CANSECFPV7\STM32_PIN_ASSIGNMENTS\ESC\STM32F031K6U6
+Toolchain / IDE : EWARM V8.32
+Firmware Package Name and Version : STM32Cube FW_F0 V1.11.5
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy all used libraries into the project folder
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
