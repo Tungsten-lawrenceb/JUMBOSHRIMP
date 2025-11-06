@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Castilated_Hole")(type "KiCad")(uri "${KIPRJMOD}/0.libary/Castilated_Hole.kicad_sym")(options "")(descr ""))
+  (lib (name "ESC_Module")(type "KiCad")(uri "${KIPRJMOD}/0.libary/ESC_Module.kicad_sym")(options "")(descr ""))
+)
